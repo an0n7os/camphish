@@ -1,7 +1,6 @@
 #!/bin/bash
 # CamPhish v1.0
 # Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
 
@@ -14,7 +13,7 @@ printf "\e[1;92m ██      ███████ ██ ████ �
 printf "\e[1;92m ██      ██   ██ ██  ██  ██ \e[0m\e[1;77m██      ██   ██ ██      ██ ██   ██ \e[0m\n"
 printf "\e[1;92m  ██████ ██   ██ ██      ██ \e[0m\e[1;77m██      ██   ██ ██ ███████ ██   ██ \e[0m\n\n"
 printf "\e[1;92m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \e[0m\n\n"
-printf " \e[1;77m github.com/Anonyos/camphish/ | Aswin krishna \e[0m \n"
+printf " \e[1;77m github.com/an0n7os/camphish/ | Aswin krishna \e[0m \n"
 
 printf "\n"
 
